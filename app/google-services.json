@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "713955666436",
+    "firebase_url": "https://capstone-reddit.firebaseio.com",
+    "project_id": "capstone-reddit",
+    "storage_bucket": "capstone-reddit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713955666436:android:cc620e5e585dd495",
+        "android_client_info": {
+          "package_name": "com.example.android.reddit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713955666436-fb9tfp9k21dg5k8b6ribs090m1kq4dcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.reddit",
+            "certificate_hash": "95f8f535e30bdf0156f538f6eb802e86aaf7b161"
+          }
+        },
+        {
+          "client_id": "713955666436-gig1ha3p75ohohhripfgjpjsj4i8sg7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZJZQThUC8PjuNVrYRfYnD-SNvZ9ZxlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713955666436-gig1ha3p75ohohhripfgjpjsj4i8sg7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
